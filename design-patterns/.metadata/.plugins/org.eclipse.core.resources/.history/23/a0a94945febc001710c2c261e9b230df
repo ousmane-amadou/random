@@ -1,0 +1,5 @@
+package dbanas;
+
+public class Dog extends Animal{
+
+}
